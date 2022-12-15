@@ -5,5 +5,5 @@
 # NANASE的阅览室 
 
 
-[blog](https://heyheynanase.vercel.app/)
-[Get Started](README)
+[BLOG入口](https://heyheynanase.vercel.app/)
+[进入阅览室](README)
